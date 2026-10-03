@@ -1,0 +1,60 @@
+/* .texto {
+    color: blue;
+}
+
+    #indentificador {
+        color: rgb(231, 231, 5);
+    }
+
+    h1 {
+        color: #0909db;
+    } */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&display=swap');
+
+/* #titulo{
+        color: #A14646;
+        font-size: 42px;
+        text-align: center;
+        font-family: "Bitcount Ink", system-ui;
+    }
+
+    #paragrafo{
+        color: #4b514b;
+        font-size: 24px;
+        font-weight: bold;
+        font-style: italic;
+        word-spacing: 10px;
+        letter-spacing: 3px;
+        text-align: justify;
+        line-height: 30px;
+        font-family: Arial, Helvetica, sans-serif; */
+
+/* } */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+     font-family: "Inter", sans-serif;
+}
+#guia-do-eleitor {
+    color: rgb(84, 84, 84);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#titulo {
+    color: rgb(121, 9, 9);
+    font-size: 36px;
+
+}
+
+#rodape {
+    color: black;
+    font-size: 12px;
+}
+
+#container {
+    height: 35vh;
+    width: 40vw;
+}
